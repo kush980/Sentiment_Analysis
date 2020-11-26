@@ -8,4 +8,4 @@ The project has been made using **nltk** package and the functions or classes in
 
 ### The text has been cleaned using stopwords from the nltk package and is filtered to not removing "negative" words like no,not,neither..etc .
 
-### The cleaned tects has been stored into the corpus and from that all the words has been stored into a bag of words from where we train our model. The best accuracy i was able to obtain was 80% .
+### The cleaned texts has been stored into the corpus and from that all the words has been stored into a bag of words from where we train our model. The best accuracy i was able to obtain was 80% .
